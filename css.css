@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(189, 160, 160);
+    margin:50;
+}
+
+h1{
+    color:bisque;
+    padding-left: 40%;
+    font-size: 70px;
+    
+    
+}
+
+.foto{
+    margin-left: 30%;
+
+}
+.menu{
+    padding-left: 40%;
+}
+p{
+    font-size: 30px;
+}
+#note{
+    font-style: italic;
+    color:rgb(218, 7, 7)
+}
+
+h3{
+    padding-left: 45%;
+}
+
+img{
+    margin-left: 60px;
+}
